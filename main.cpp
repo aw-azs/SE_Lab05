@@ -1,3 +1,4 @@
+//The program is an educational version
 #include <iostream>
 
 using namespace std;
